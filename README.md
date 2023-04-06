@@ -1,6 +1,6 @@
 # kathmandu_house_sales_price_prediction
 
-The repository includes the dataset containing the prices of House Properties in Kathmandu and usage of the same dataset to predict the prices of the properties based on cricual factors that siginifies/increases the quality of lving with the properties such as number of rooms, floors, area, parking, road reach etc. 
+The repository includes the dataset containing the prices of House Properties in Kathmandu and usage of the same dataset to predict the prices of the properties based on crucial factors that signifies/increases the quality of lving with the properties such as number of rooms, floors, area, parking, road reach etc. 
 
 For this, a linear model is created that quantitatively relates house prices with significant variables and its aacuracy test is done. This included following processes:
 
